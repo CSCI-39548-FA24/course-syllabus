@@ -266,6 +266,12 @@ Just to give an outline on what's expected in your presentation, consider the po
 - Why is this topic important to our field, and how does it impact our work?
 - How does it address/cause certain issues that we find on the web?
 
+Example slides of a small presentation on a bug fix that I did for work: https://docs.google.com/presentation/d/11Vvj5eyRQE3oOiBYAFOQsP3ZBjVL53Np1XdLEqxG1QE/edit?usp=sharing
+
+- You can keep it much shorter than this example!
+- Doesn't have to be about a bug fix.
+- You can also supplement your slides with an actual demo/code/recording.
+
 ---
 
 ## Hunter Policies
