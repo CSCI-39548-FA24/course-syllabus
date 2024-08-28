@@ -80,8 +80,7 @@ Documentations:
 
 * NodeJS Docs: https://nodejs.org/en/docs/
     * Official documentation for NodeJS
-    * We will be using Node.js 18.x and +
-    * Recommend we use the current LTS version.
+    * Recommend we use the current LTS versions.
 
 
 * ExpressJS Docs: https://expressjs.com/en/4x/api.html
@@ -153,6 +152,21 @@ As a backup, if the above setup does not work, we will fall back to using Google
 Lecture room/links will be posted on BlackBoard and/or Slack shortly before the start of our class.
 
 Current set of slides will be posted/added to a shared Google Drive folder, and made available throughout the course.
+
+---
+
+## Course Technical Specs/Standards
+Since there are many different web browsers/engines out there, each with their own standards and interpretation of what the web specs should be, 
+we as a class should agree on a spec/standard and stick to it throughout the course for everything that we do (i.e lecture demos, assignments, final project, etc...).
+
+For this course, we will be sticking to the below browser/NodeJS versions, upon which your assignments/projects will be graded against.
+
+```
+Browser: Google Chrome - any recent update/version should suffice
+NodeJS: v18.20.4 (Hydrogen) or +
+```
+
+Any additional libraries that we bring in should satisfy these two standards (i.e work on Chrome, run on NodeJS 18).
 
 ---
 
