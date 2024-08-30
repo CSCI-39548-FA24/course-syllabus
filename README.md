@@ -289,31 +289,20 @@ Example slides of a small presentation on a bug fix that I did for work: https:/
 ---
 
 ## Hunter Policies
-**_Policy on Academic Integrity:_** Hunter College regards acts of academic dishonesty (e.g. plagiarism, cheating on examinations, obtaining unfair advantage,
-and falsification of records and official documents) as serious offenses against
-the values of intellectual honesty. The College is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
 
-**_ADA Compliance:_** In compliance with the American Disability Act of 1990
-(ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is
-committed to ensuring educational parity and accommodations for all students
-with documented disabilities and/or medical conditions. It is recommended that
-all students with documented disabilities (Emotional, Medical, Physical and/
-or Learning) consult the Office of AccessABILITY located in Room E1124 to
-secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
-Hunter College Policy on Sexual Misconduct: In compliance with the
+### CS Department Policies
+Bullying, cyberbullying, online hate, intimidation, threats, harassment, and pressure to share schoolwork are all forms of violence. CUNY holds a zero tolerance stance towards all such acts. The University is committed to prevention of any form of bullying, will respond promptly to threats and/or acts, and will protect victims of bullying from retaliation.  As a criminal matter, the New York Attorney General defines cyberbullying as the use of email, websites, instant messaging, chat rooms, text messaging and digital cameras to antagonize and intimidate others. Disrupting a teleconferencing platform (such as Zoom/Skype/Blackboard Collaborate Ultra) is a federal crime.
 
-**_CUNY Policy on Sexual Misconduct_**, Hunter College reaffirms the prohibition
-of any sexual misconduct, which includes sexual violence, sexual harassment,
-and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced
-any form of sexual violence on or off campus (including CUNY-sponsored trips
-and events) are entitled to the rights outlined in the Bill of Rights for Hunter
-College.
+### Hunter Senate Policies
 
-a. Sexual Violence: Students are strongly encouraged to immediately report
-the incident by calling 911, contacting NYPD Special Victims Division Hotline
-(646-610-7272) or their local police precinct, or contacting the College’s Public
-Safety Office (212-772-4444).
+**_Academic Integrity Statement_**:
+“Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty.  The College is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.”
 
-b. All Other Forms of Sexual Misconduct: Students are also encouraged
-to contact the College’s Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling
-and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-onSexual-Misconduct-12-1-14-withlinks.pdf
+**_Hunter College Policy on Sexual Misconduct_**:
+“In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.
+CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf”
+
+**_ADA Statement_**:
+“In compliance with the ADA and with Section 504 of the Rehabilitation Act, Hunter College is committed to ensuring educational access and accommodations for all its registered students. Hunter College’s students with disabilities and medical conditions are encouraged to register with the Office of AccessABILITY for assistance and accommodation. For information and appointment contact the Office of AccessABILITY located in Room E1214 or call (212) 772-4857 /or VRS (646) 755-3129.”
