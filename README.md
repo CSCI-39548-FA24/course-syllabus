@@ -258,11 +258,22 @@ Content/order subject to change*
 - ReactJS testing using react testing library
 - RXJS: Realtime JS framework (also available in Java and other languages)
 - NextJS: ReactJS with built-in routing
-- Deploying webapps to production. Production build using webpacks, deploying backend services & monitoring
+- Deploying webapps to production. Production build using Webpack, deploying backend services & monitoring
 - a11y compliance
 
 ### Final Project
 - Final project presentations
+
+## Important Academic Calendar Dates
+
+Note the below academic calendar dates as it pertains to our course:
+
+- Thurs, 10/3 - No class.
+- Tues, 10/15 - No class, classes follow Monday schedule.
+- Tues, 10/15 - Fall & Winter 2024 graduation filing period ends.
+- Wed, 11/6 - Last day for withdrawal (W grade).
+- Thurs, 11/28 - No class, Thanksgiving break.
+- Tues, 12/17 - Final exam week, we will have our final group presentations. (Tentative start Thurs, 12/12 if we need more time)
 
 ---
 
